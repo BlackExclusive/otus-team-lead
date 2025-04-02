@@ -1,1 +1,1 @@
-new otus
+edit otus
